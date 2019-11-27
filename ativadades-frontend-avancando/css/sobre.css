@@ -1,0 +1,86 @@
+
+
+body {
+
+background: black;
+margin: 0px;
+
+
+}
+
+
+#menu ul {
+ 
+margin: 0px;
+list-style: none;
+background-color: #3C72CA;
+text-align: right;
+
+}
+
+#menu ul li {
+display: inline;
+
+}
+
+#menu ul li a {
+padding: 10px 16px;
+display: inline-block;
+text-decoration: none;
+color: white;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#menu ul li a:hover {
+ color: black;
+
+}
+
+
+p {
+color:white;
+padding: 17px;
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+ color:black;
+ font-family: Arial, Helvetica, sans-serif;
+ font-style: italic;
+ text-align: center;
+ background-image:url("../img/sobre-background.jpg") ;
+ background-repeat: repeat;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+ width: 100%;
+  height: 50%;
+margin: 0px;
+}
+
+
+figcaption {
+color:white;
+font-size: 20px;
+
+}
+
+.footer {
+
+background: grey;
+margin: 0px;
+padding: 10px 16px;
+ background-image:url("../img/home-page-image.jpg");
+background-repeat: repeat;
+
+
+
+
+
+ 
+}
